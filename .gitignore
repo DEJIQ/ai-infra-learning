@@ -1,9 +1,14 @@
-# 编译产物
-*.out
+# 编译产出
 *.exe
+day1
+day2
+*.out
 *.o
+*.a
 *.so
-*.cuo
+*.bin
+# 其他
+.DS_Store
 
 # 临时文件、日志
 *.tmp
