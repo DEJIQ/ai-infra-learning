@@ -1,0 +1,14 @@
+# 编译产物
+*.out
+*.exe
+*.o
+*.so
+*.cuo
+
+# 临时文件、日志
+*.tmp
+*.log
+
+# IDE缓存
+.vscode/
+.idea/
