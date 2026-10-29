@@ -1,4 +1,3 @@
-```markdown
 # M0 Week1｜C++内存基础
 周期：7天
 核心目标：指针、引用、堆/栈、new/delete、vector底层、unique_ptr、RAII
